@@ -11,7 +11,7 @@ const Navigation = () => {
                <CrwnLogo />
             </Link>
             <div className="nav-links-container">
-            <Link className="nav-link" to="/sing-in">
+            <Link className="nav-link" to="/auth">
                Sign In
             </Link>
             </div>
