@@ -1,20 +1,20 @@
 # E-Commerce
 E-Commerce is a robust and feature-rich e-commerce application built with React and Firebase. It provides a seamless shopping experience with secure authentication, product browsing, and a fully functional shopping cart.
 
-Table of Contents
-Features
-Installation
-Usage
-Project Structure
-Contributing
-License
-Features
-User Authentication with Firebase
-Browse products by categories
-Product details and reviews
-Add to cart and checkout
-Order history and tracking
-Responsive design
+Table of Contents\
+Features\
+Installation\
+Usage\
+Project Structure\
+Contributing\
+License\
+Features\
+User Authentication with Firebase\
+Browse products by categories\
+Product details and reviews\
+Add to cart and checkout\
+Order history and tracking\
+Responsive design\
 Installation
 To get started with E-Commerce, follow these steps:
 
